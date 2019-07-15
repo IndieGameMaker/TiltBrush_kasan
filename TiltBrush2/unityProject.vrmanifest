@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.tiltbrush2.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\UnityStudy\\TiltBrush2\\actions.json",
+      "action_manifest_path": "C:\\GitHub\\TiltBrush_kasan\\TiltBrush2\\actions.json",
       "strings": {
         "en_us": {
           "name": "TiltBrush2 [Testing]"
